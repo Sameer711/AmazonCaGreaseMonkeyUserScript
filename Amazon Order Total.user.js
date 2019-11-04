@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  Sum up the total amazon orders
 // @author       Sameer
+// @license       GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
+// @copyright    Copyright (C) 2019, by Sameer
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
 // @match        https://www.amazon.ca/gp/your-account/order-history*
 // @grant        GM_setValue
