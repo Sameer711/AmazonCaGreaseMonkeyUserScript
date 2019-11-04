@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  Sum up the total amazon orders
 // @author      Sameer711
-// @license      MIT
+// @license MIT
+// @updateURL https://github.com/Sameer711/AmazonCaGreaseMonkeyUserScript/blob/master/Amazon%20Order%20Total.user.js
 // @copyright   Copyright (C) 2019, by Sameer
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
 // @match        https://www.amazon.ca/gp/your-account/order-history*
